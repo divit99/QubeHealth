@@ -17,5 +17,6 @@ Step 6 :backend is running on localhost:8001
 ![Screenshot 2022-11-01 at 9 48 15 AM](https://user-images.githubusercontent.com/41451985/199158339-44f11697-9500-417e-af90-723633845450.png)
 
 ![Screenshot 2022-11-01 at 9 47 54 AM](https://user-images.githubusercontent.com/41451985/199158353-50d07b15-8fe2-443f-b4a3-2b645188f1bf.png)
-![Screenshot 2022-11-01 at 9 56 34 AM](https://user-images.githubusercontent.com/41451985/199158876-7cfbb550-0f4a-4774-9047-3fb19a8fe5ed.png)
+![Screenshot 2022-11-01 at 9 56 34 AM](https://user-images.githubusercontent.com/41451985/199158876-7cfbb550-0f4a-4774-9047-3fb19a8fe5ed.png)![Screenshot 2022-11-01 at 10 17 11 AM](https://user-images.githubusercontent.com/41451985/199161103-c0369ff4-d494-49af-b102-84d261bf65f4.png)
+
 ![Screenshot 2022-11-01 at 9 58 39 AM](https://user-images.githubusercontent.com/41451985/199158884-d5233755-73e2-4025-89bf-b21164330a98.png)
