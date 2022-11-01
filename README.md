@@ -12,16 +12,17 @@ Step 5 :then type node app.js
 
 Step 6 :backend is running on localhost:8001
 
+
 this is the screen you will see on localhost:3000
 
 ![Screenshot 2022-11-01 at 9 44 47 AM](https://user-images.githubusercontent.com/41451985/199162468-20981cc1-d9d3-43d0-8697-f18130b3e66c.png)
 
-this is login for master(anyone can go receive otp here)
+this is login for master(anyone can get receive otp here)
 ![Screenshot 2022-11-01 at 9 48 15 AM](https://user-images.githubusercontent.com/41451985/199158339-44f11697-9500-417e-af90-723633845450.png)
 
 First select your country then enter your number 
 
-after capatcha pop up will come for you to enter otp
+after capatcha, a pop up will come for you to enter otp
 ![Screenshot 2022-11-01 at 9 56 34 AM](https://user-images.githubusercontent.com/41451985/199158876-7cfbb550-0f4a-4774-9047-3fb19a8fe5ed.png)
 
 after the successful login you can enter names and ph.number (you can edit add delete the data)
