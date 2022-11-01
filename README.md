@@ -11,9 +11,9 @@ Step 4:open database folder and run npm install
 Step 5 :then type node app.js
 
 Step 6 :backend is running on localhost:8001
+![Screenshot 2022-11-01 at 9 44 47 AM](https://user-images.githubusercontent.com/41451985/199162468-20981cc1-d9d3-43d0-8697-f18130b3e66c.png)
 
-![Screenshot 2022-11-01 at 9 44 47 AM](https://user-images.git![Screenshot 2022-11-01 at 10 16 18 AM]
-hubusercontent.com/41451985/199158304-fad3ca0c-613c-454a-82dd-e95e2eafc8ad.png)
+
 
 ![Screenshot 2022-11-01 at 9 48 15 AM](https://user-images.githubusercontent.com/41451985/199158339-44f11697-9500-417e-af90-723633845450.png)
 
